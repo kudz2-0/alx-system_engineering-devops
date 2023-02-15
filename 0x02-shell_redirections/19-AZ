@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Aca | sed 's/A/Z/g; s/e/c/g'
+sed 's/A/Z/g; s/e/c/g'
